@@ -1,5 +1,5 @@
 {
-  "project_name": "new_project",
+  "project_name": "name of the project following the convention: YYYY_Proj_Code_Researcher - see README.md for details",
   "project_description": "A short description of the project",
   "project_author": "Who is to blame for this?" 
 }
